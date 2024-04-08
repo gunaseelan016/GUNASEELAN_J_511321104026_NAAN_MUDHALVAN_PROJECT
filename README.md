@@ -3,16 +3,16 @@
 
 ## PROJECT CREATED BY : 
 
-   NAME: C.A.HEMNATH AJAY
+   NAME:  GUNASEELAN J
 
    
-   REGISTER NO: 511321104030
+   REGISTER NO: 511321104026
 
    
    COLEEGE NAME/CODE: KINGSTON ENGINEERING COLLEGE/5113
 
    
-   LMS ID: au511321104030
+   LMS ID: au511321104026
 
 
 
@@ -34,3 +34,5 @@ python manage.py makemigrations
 python manage.py migrate
 
 python manage.py createsuperuser
+
+python manage.py runserver
